@@ -52,7 +52,7 @@ str(act)
 
 
 ## What is mean total number of steps taken per day?
-There are a fair amount of NA step observations in the data.  For the initial analysis, we will remove the NAs and calculate the mean for each day.  The following histogram provides a visual representation of average daily step values for this individual
+There are a fair amount of NA step observations in the data.  For the initial analysis, we will remove the NAs and calculate the mean for each day.  The following histogram provides a visual representation of average daily step values for this individual.
 
 
 ```r
