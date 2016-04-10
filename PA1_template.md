@@ -66,7 +66,7 @@ There are a fair amount of NA step observations in the data.  For the initial an
                                                                         bins=40)+labs(title="Histogram of Daily Steps") +labs(x="Daily Steps", y="Frequency")
 ```
 
-![](PA1_template_files/figure-html/Calc_mean-1.png)
+![](PA1_template_files/figure-html/Calc_mean-1.png)<!-- -->
 
 Mean and medians from the summarized data set
 
@@ -102,7 +102,7 @@ Next we look at steps captured during five minute intervals across days to see p
         plot(int_mean, type="l", col ="blue", xlab="5 Minute Intervals", ylab="Step Count",main="Average Interval Step Count")
 ```
 
-![](PA1_template_files/figure-html/interval_mean-1.png)
+![](PA1_template_files/figure-html/interval_mean-1.png)<!-- -->
 We use the resulting data set to find the average highest interval value
 
 
@@ -160,7 +160,7 @@ Using the menthod described, we now can replace the NAs and compare the resultin
                                                                         bins=40)+labs(title="Histogram of Daily Steps") + labs(x="Daily Steps", y="Frequency")
 ```
 
-![](PA1_template_files/figure-html/hist2-1.png)
+![](PA1_template_files/figure-html/hist2-1.png)<!-- -->
 
 
 
@@ -178,7 +178,7 @@ The last analysis we do with our data set is to analyze whether there are differ
             xlab("5-minute interval") + ylab("Number of steps")
 ```
 
-![](PA1_template_files/figure-html/weekday-1.png)
+![](PA1_template_files/figure-html/weekday-1.png)<!-- -->
 
 
 

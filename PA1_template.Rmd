@@ -2,7 +2,8 @@
 title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
-    keep_md: true
+    fig_caption: yes
+    keep_md: yes
 ---
 This Report has been compiled to review the analysis performed using a fitness tracker dataset that collected steps taken by an anonymous individual for a two month period.  Steps were captured in five minute intervals providing 288 observations per day
 
