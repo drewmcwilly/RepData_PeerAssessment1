@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-This Report has been compiled to review the analysis performed using a fitness tracker dataset that collected steps taken by an anonymous individual for a two month period.  Steps were captured in five minute intervals providing 288 observations per day
+This Report has been compiled to review the analysis performed using a fitness tracker dataset that collected steps taken by an anonymous individual for a two month period.  Steps were captured in five minute intervals providing 288 observations per day.
 
 ## Loading and preprocessing the data
 I'm using the dplyr anmd ggplot2 libraries in addition to the base R package in order to build the plots and perform the analyses in this report.
